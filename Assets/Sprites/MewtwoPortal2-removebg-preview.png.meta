@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 5727a39ed7c036c44848ce8e594e0d45
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5424092667589210405
+    second: MewtwoPortal2-removebg-preview_0
+  - first:
+      213: -7626918219895276240
+    second: MewtwoPortal2-removebg-preview_1
+  - first:
+      213: -6825648813902225557
+    second: MewtwoPortal2-removebg-preview_2
+  - first:
+      213: -670740904132074455
+    second: MewtwoPortal2-removebg-preview_3
+  - first:
+      213: 5856960650194618023
+    second: MewtwoPortal2-removebg-preview_4
+  - first:
+      213: 3363752941979302008
+    second: MewtwoPortal2-removebg-preview_5
+  - first:
+      213: 667907165634455337
+    second: MewtwoPortal2-removebg-preview_6
+  - first:
+      213: -5992145174113530537
+    second: MewtwoPortal2-removebg-preview_7
+  - first:
+      213: -6266809027786919513
+    second: MewtwoPortal2-removebg-preview_8
+  - first:
+      213: 7353767717648606839
+    second: MewtwoPortal2-removebg-preview_9
+  - first:
+      213: 5348830365977053854
+    second: MewtwoPortal2-removebg-preview_10
+  - first:
+      213: -8316667752749736035
+    second: MewtwoPortal2-removebg-preview_11
+  - first:
+      213: -7547002683787176054
+    second: MewtwoPortal2-removebg-preview_12
+  - first:
+      213: 7275165125458804315
+    second: MewtwoPortal2-removebg-preview_13
+  - first:
+      213: 6863579270275432028
+    second: MewtwoPortal2-removebg-preview_14
+  - first:
+      213: -3536063601228573376
+    second: MewtwoPortal2-removebg-preview_15
+  - first:
+      213: 2763146348725193465
+    second: MewtwoPortal2-removebg-preview_16
+  - first:
+      213: -3781105410101032185
+    second: MewtwoPortal2-removebg-preview_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MewtwoPortal2-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 335
+        width: 340
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521b4780b8f364b40800000000000000
+      internalID: 5424092667589210405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewtwoPortal2-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 347
+        width: 169
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03dff24c94eb72690800000000000000
+      internalID: -7626918219895276240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewtwoPortal2-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 379
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f9acd419c6641a0800000000000000
+      internalID: -6825648813902225557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewtwoPortal2-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 224
+        width: 39
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92422e093bc01b6f0800000000000000
+      internalID: -670740904132074455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewtwoPortal2-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 91
+        width: 181
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a68a4a0eaa184150800000000000000
+      internalID: 5856960650194618023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewtwoPortal2-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 296
+        width: 88
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878f9d29a737eae20800000000000000
+      internalID: 3363752941979302008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewtwoPortal2-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 284
+        width: 90
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92764964702e44900800000000000000
+      internalID: 667907165634455337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewtwoPortal2-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 299
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d446e36bf97dca0800000000000000
+      internalID: -5992145174113530537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewtwoPortal2-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 281
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1bc876462d709a0800000000000000
+      internalID: -6266809027786919513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewtwoPortal2-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 244
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7762e2bf6c4dd0660800000000000000
+      internalID: 7353767717648606839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewtwoPortal2-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 230
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a82e7e0ecda3a40800000000000000
+      internalID: 5348830365977053854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewtwoPortal2-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 256
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fd7621eb2459c80800000000000000
+      internalID: -8316667752749736035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewtwoPortal2-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 227
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8712f97b09a34790800000000000000
+      internalID: -7547002683787176054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewtwoPortal2-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 198
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e3849d22496f460800000000000000
+      internalID: 7275165125458804315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewtwoPortal2-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 198
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e70844bf4504f50800000000000000
+      internalID: 6863579270275432028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewtwoPortal2-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 67
+        width: 239
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0451599b3e06deec0800000000000000
+      internalID: -3536063601228573376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewtwoPortal2-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 180
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9face22e6faa85620800000000000000
+      internalID: 2763146348725193465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MewtwoPortal2-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 133
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bce94a9a0d68bc0800000000000000
+      internalID: -3781105410101032185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MewtwoPortal2-removebg-preview_0: 5424092667589210405
+      MewtwoPortal2-removebg-preview_1: -7626918219895276240
+      MewtwoPortal2-removebg-preview_10: 5348830365977053854
+      MewtwoPortal2-removebg-preview_11: -8316667752749736035
+      MewtwoPortal2-removebg-preview_12: -7547002683787176054
+      MewtwoPortal2-removebg-preview_13: 7275165125458804315
+      MewtwoPortal2-removebg-preview_14: 6863579270275432028
+      MewtwoPortal2-removebg-preview_15: -3536063601228573376
+      MewtwoPortal2-removebg-preview_16: 2763146348725193465
+      MewtwoPortal2-removebg-preview_17: -3781105410101032185
+      MewtwoPortal2-removebg-preview_2: -6825648813902225557
+      MewtwoPortal2-removebg-preview_3: -670740904132074455
+      MewtwoPortal2-removebg-preview_4: 5856960650194618023
+      MewtwoPortal2-removebg-preview_5: 3363752941979302008
+      MewtwoPortal2-removebg-preview_6: 667907165634455337
+      MewtwoPortal2-removebg-preview_7: -5992145174113530537
+      MewtwoPortal2-removebg-preview_8: -6266809027786919513
+      MewtwoPortal2-removebg-preview_9: 7353767717648606839
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
